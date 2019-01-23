@@ -1,2 +1,4 @@
 .idea/
 *.pyc
+django_blog/.env
+django_blog/django_blog/db.sqlite3
